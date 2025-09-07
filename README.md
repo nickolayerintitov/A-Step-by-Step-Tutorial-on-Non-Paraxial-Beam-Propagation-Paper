@@ -11,4 +11,4 @@ The data folder contains the raw experimental data for laser intensity measureme
 To obtain the corresponding figure in the paper, please run the code under the 'Simulation' section of the experimental_data_measurement.ipynb notebook.
 
 ## Contact
-Please contact [Nickolay Erin Titov](nikolayerintitov@gmail.com) for questions.
+Please contact [Nickolay Erin Titov](mailto:nikolayerintitov@gmail.com) for questions.
